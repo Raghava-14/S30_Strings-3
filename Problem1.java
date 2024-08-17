@@ -1,5 +1,5 @@
-//Time =
-//Space = 
+//Time = O(1)
+//Space = O(1)
 
 class Solution {
     // Define arrays to hold the English words for numbers from 0 to 19, and for multiples of 10 up to 90
